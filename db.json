@@ -2,32 +2,32 @@
   "posts": [
     {
       "id": 1,
-      "name": "hello"
+      "name": "hello",
       "username": "hello"
     }
     {
       "id": 2,
-      "name": "hello"
+      "name": "hello",
       "username": "hello"
     }
 {
       "id": 3,
-      "name": "hello"
+      "name": "hello",
       "username": "hello"
     }
 {
       "id": 4,
-      "name": "hello"
+      "name": "hello",
       "username": "hello"
     }
 {
       "id": 5,
-      "name": "hello"
+      "name": "hello",
       "username": "hello"
     }
 {
       "id": 6,
-      "name": "hello"
+      "name": "hello",
       "username": "hello"
     }
   ],
