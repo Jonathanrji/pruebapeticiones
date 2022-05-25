@@ -2,7 +2,33 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "hello"
+      "username": "hello"
+    }
+    {
+      "id": 2,
+      "name": "hello"
+      "username": "hello"
+    }
+{
+      "id": 3,
+      "name": "hello"
+      "username": "hello"
+    }
+{
+      "id": 4,
+      "name": "hello"
+      "username": "hello"
+    }
+{
+      "id": 5,
+      "name": "hello"
+      "username": "hello"
+    }
+{
+      "id": 6,
+      "name": "hello"
+      "username": "hello"
     }
   ],
   "profile": {
